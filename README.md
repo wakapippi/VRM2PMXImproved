@@ -17,7 +17,7 @@ PMXExporter v0.5.6 by Furia https://twitter.com/flammpfeil/status/10322668295975
 # License
 MIT。ライブラリ部分はそれぞれのライセンスに準じます。
 
-# include
+# Include
 - PMXExporter v0.5.6 by Furia　https://twitter.com/flammpfeil/status/1032266829597573121  
 - UniVRM 0.5.6 https://github.com/vrm-c/UniVRM/releases/tag/v0.56.3
 - MMDataIO(zyando) https://github.com/dojadon/MMDataIO
