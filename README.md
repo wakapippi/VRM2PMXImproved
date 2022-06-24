@@ -11,7 +11,9 @@ PMXExporter v0.5.6 by Furia https://twitter.com/flammpfeil/status/10322668295975
 
 - Editor限定だったので、容易に扱えるようにツール化しました。
 - 一部のVRMファイルで互換性の問題が生じることがあったので書き換えを行った。
-→　こちらはneon-izmさんの　https://github.com/neon-izm/VrmToPmxExporterSetup　での実装を利用しました。
+
+→　こちらはneon-izmさんの　https://github.com/neon-izm/VrmToPmxExporterSetup
+での実装を利用しました。
 - 表情モーフの設定を変換時に設定できるようにしました
 
 # License
