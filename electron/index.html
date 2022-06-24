@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="ja">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <link href="bootstrap.min.css" rel="stylesheet">
+  <style>
+    .hidden-part {
+      display: none;
+    }
+  </style>
+
+</head>
+
+<body>
+  <div class="container mt-5 p-lg-5 bg-light hidden-part" id="step1" style="padding:3rem">
+    <div class="fw-bold">STEP.1 VRMファイルを読み込む</div>
+    <input type="file" id="avatar" name="avatar" accept=".vrm" style="float:right" onchange="sendToUnity()">
+  </div>
+
+  <div class="container mt-5 p-lg-5 bg-light hidden-part" id="step2" style="padding:3rem">
+    <div class="fw-bold">STEP.2 PMXに変換する</div>
+
+    <button onclick="convert();" type="button" class="btn btn-success" style="float: right;">変換する</button>
+    <br>※表情はある程度自動認識によって変換されますが、手動で追加や削除することもできます。表情を編集したい場合は下の項目で行ってください。
+  </div>
+  <div class="container mt-5 bg-light hidden-part" id="extra">
+    <div style="padding: 3rem;">
+      <div class="fw-bold">EXTRA. 表情の設定
+        <button onclick="onAddClip()" type="button" class="btn btn-success" style="float: right;">クリップを追加</button>
+      </div>
+    </div>
+    <div class="accordion accordion-flush" id="bindings">
+
+    </div>
+  </div>
+
+  <script src="bootstrap.bundle.min.js"></script>
+  <script src="renderer.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,544 @@
+{
+    "lists": [
+        {
+            "originalName": "Face.M_F00_000_Fcl_BRW_Angry",
+            "proxyName": "BAngry",
+            "pmxName": "怒り",
+            "typeString": "B"
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_BRW_Angry",
+            "proxyName": "BAngry",
+            "pmxName": "怒り",
+            "typeString": "B"
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_BRW_Fun",
+            "proxyName": "BFun",
+            "pmxName": "にこり２",
+            "typeString": "B"
+        },
+        {
+            "originalName": "Face.M_M00_000_Fcl_BRW_Fun",
+            "proxyName": "BFun",
+            "pmxName": "にこり２",
+            "typeString": "B"
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_BRW_Fun",
+            "proxyName": "BFun",
+            "pmxName": "にこり２",
+            "typeString": "B"
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_BRW_Joy",
+            "proxyName": "BJoy",
+            "pmxName": "にこり",
+            "typeString": "B"
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_BRW_Joy",
+            "proxyName": "BJoy",
+            "pmxName": "にこり",
+            "typeString": "B"
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_BRW_Sorrow",
+            "proxyName": "BSorrow",
+            "pmxName": "困る",
+            "typeString": "B"
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_BRW_Sorrow",
+            "proxyName": "BSorrow",
+            "pmxName": "困る",
+            "typeString": "B"
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_BRW_Surprised",
+            "proxyName": "BSurprised",
+            "pmxName": "上",
+            "typeString": "B"
+        },
+        {
+            "originalName": "Face.M_M00_000_Fcl_BRW_Surprised",
+            "proxyName": "BSurprised",
+            "pmxName": "上",
+            "typeString": "B"
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_BRW_Surprised",
+            "proxyName": "BSurprised",
+            "pmxName": "上",
+            "typeString": "B"
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_EYE_Natural",
+            "proxyName": "ENatural",
+            "pmxName": "目通常",
+            "typeString": "E"
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_EYE_Natural",
+            "proxyName": "ENatural",
+            "pmxName": "目通常",
+            "typeString": "E"
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_EYE_Angry",
+            "proxyName": "EAngry",
+            "pmxName": "ｷﾘｯ",
+            "typeString": "E"
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_EYE_Joy",
+            "proxyName": "EJoy",
+            "pmxName": "笑い",
+            "typeString": "E"
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_EYE_Joy",
+            "proxyName": "EJoy",
+            "pmxName": "笑い",
+            "typeString": "E"
+        },
+        {
+            "originalName": "Face.M_M00_000_Fcl_EYE_Joy",
+            "proxyName": "EJoy",
+            "pmxName": "笑い",
+            "typeString": "E"
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_EYE_Joy_R",
+            "proxyName": "EJoyR",
+            "pmxName": "ウィンク",
+            "typeString": "E"
+        },
+        {
+            "originalName": "Face.M_M00_000_Fcl_EYE_Joy_R",
+            "proxyName": "EJoyR",
+            "pmxName": "ウィンク",
+            "typeString": "E"
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_EYE_Joy_R",
+            "proxyName": "EJoyR",
+            "pmxName": "ウィンク",
+            "typeString": "E"
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_EYE_Joy_L",
+            "proxyName": "EJoyL",
+            "pmxName": "ウィンク右",
+            "typeString": "E"
+        },
+        {
+            "originalName": "Face.M_M00_000_Fcl_EYE_Joy_L",
+            "proxyName": "EJoyL",
+            "pmxName": "ウィンク右",
+            "typeString": "E"
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_EYE_Joy_L",
+            "proxyName": "EJoyL",
+            "pmxName": "ウィンク右",
+            "typeString": "E"
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_EYE_Sorrow",
+            "proxyName": "ESorrow",
+            "pmxName": "じと目",
+            "typeString": "E"
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_EYE_Sorrow",
+            "proxyName": "ESorrow",
+            "pmxName": "じと目",
+            "typeString": "E"
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_EYE_Surprised",
+            "proxyName": "ESurprised",
+            "pmxName": "びっくり",
+            "typeString": "E"
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_EYE_Surprised",
+            "proxyName": "ESurprised",
+            "pmxName": "びっくり",
+            "typeString": "E"
+        },
+        {
+            "originalName": "Face.M_M00_000_Fcl_EYE_Surprised",
+            "proxyName": "ESurprised",
+            "pmxName": "びっくり",
+            "typeString": "E"
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_EYE_Extra",
+            "proxyName": "EExtra",
+            "pmxName": "目消",
+            "typeString": "E"
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_EYE_Extra",
+            "proxyName": "EExtra",
+            "pmxName": "目消",
+            "typeString": "E"
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_MTH_Close",
+            "proxyName": "MClose",
+            "pmxName": "口閉",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_M00_000_Fcl_MTH_Close",
+            "proxyName": "MClose",
+            "pmxName": "口閉",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_MTH_Close",
+            "proxyName": "MClose",
+            "pmxName": "口閉",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_MTH_Up",
+            "proxyName": "MUp",
+            "pmxName": "口上",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_M00_000_Fcl_MTH_Up",
+            "proxyName": "MUp",
+            "pmxName": "口上",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_MTH_Up",
+            "proxyName": "MUp",
+            "pmxName": "口上",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_MTH_Down",
+            "proxyName": "MDown",
+            "pmxName": "口下",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_M00_000_Fcl_MTH_Down",
+            "proxyName": "MDown",
+            "pmxName": "口下",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_MTH_Down",
+            "proxyName": "MDown",
+            "pmxName": "口下",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_MTH_Angry",
+            "proxyName": "MAngry",
+            "pmxName": "∧",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_MTH_Angry",
+            "proxyName": "MAngry",
+            "pmxName": "∧",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_MTH_Small",
+            "proxyName": "MSmall",
+            "pmxName": "口小",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_MTH_Large",
+            "proxyName": "MLarge",
+            "pmxName": "口大",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_MTH_Neutral",
+            "proxyName": "MNeutral",
+            "pmxName": "口角上げ",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_M00_000_Fcl_MTH_Natural",
+            "proxyName": "MNeutral",
+            "pmxName": "口角上げ",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_MTH_Neutral",
+            "proxyName": "MNeutral",
+            "pmxName": "口角上げ",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_MTH_Natural",
+            "proxyName": "MNatural",
+            "pmxName": "口角上げ",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_MTH_Fun",
+            "proxyName": "MFun",
+            "pmxName": "にやり",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_M00_000_Fcl_MTH_Fun",
+            "proxyName": "MFun",
+            "pmxName": "にやり",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_MTH_Fun",
+            "proxyName": "MFun",
+            "pmxName": "にやり",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_MTH_Joy",
+            "proxyName": "MJoy",
+            "pmxName": "ワ",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_M00_000_Fcl_MTH_Joy",
+            "proxyName": "MJoy2",
+            "pmxName": "ニカッ",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_MTH_Joy",
+            "proxyName": "MJoy2",
+            "pmxName": "ニカッ",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_MTH_Sorrow",
+            "proxyName": "MSorrow",
+            "pmxName": "▲",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_MTH_Sorrow",
+            "proxyName": "MSorrow",
+            "pmxName": "▲",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_MTH_Surprised",
+            "proxyName": "MSurprised",
+            "pmxName": "えー",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_M00_000_Fcl_MTH_Surprised",
+            "proxyName": "MSurprised2",
+            "pmxName": "Д",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_MTH_Surprised",
+            "proxyName": "MSurprised2",
+            "pmxName": "Д",
+            "typeString": "M"
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_HA_Fung1",
+            "proxyName": "Fung1",
+            "pmxName": "牙",
+            "typeString": ""
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_HA_Fung1",
+            "proxyName": "Fung1",
+            "pmxName": "牙",
+            "typeString": ""
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_HA_Fung1_Low",
+            "proxyName": "Fung1Low",
+            "pmxName": "牙下",
+            "typeString": ""
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_HA_Fung1_Low",
+            "proxyName": "Fung1Low",
+            "pmxName": "牙下",
+            "typeString": ""
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_HA_Fung1_Up",
+            "proxyName": "Fung1Up",
+            "pmxName": "牙上",
+            "typeString": ""
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_HA_Fung1_Up",
+            "proxyName": "Fung1Up",
+            "pmxName": "牙上",
+            "typeString": ""
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_HA_Fung2",
+            "proxyName": "Fung2",
+            "pmxName": "ギザ歯",
+            "typeString": ""
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_HA_Fung2",
+            "proxyName": "Fung2",
+            "pmxName": "ギザ歯",
+            "typeString": ""
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_HA_Fung2_Low",
+            "proxyName": "Fung2Low",
+            "pmxName": "ギザ歯下",
+            "typeString": ""
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_HA_Fung2_Low",
+            "proxyName": "Fung2Low",
+            "pmxName": "ギザ歯下",
+            "typeString": ""
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_HA_Fung_Low",
+            "proxyName": "FungLow",
+            "pmxName": "ギザ歯下",
+            "typeString": ""
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_HA_Fung_Low",
+            "proxyName": "FungLow",
+            "pmxName": "ギザ歯下",
+            "typeString": ""
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_HA_Fung2_Up",
+            "proxyName": "Fung2Up",
+            "pmxName": "ギザ歯上",
+            "typeString": ""
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_HA_Fung2_Up",
+            "proxyName": "Fung2Up",
+            "pmxName": "ギザ歯上",
+            "typeString": ""
+        },
+        {
+            "originalName": "Face.M_F00_000_Fcl_HA_Fung_Up",
+            "proxyName": "FungUp",
+            "pmxName": "ギザ歯上",
+            "typeString": ""
+        },
+        {
+            "originalName": "Face.M_F00_000_00_Fcl_HA_Fung_Up",
+            "proxyName": "FungUp",
+            "pmxName": "ギザ歯上",
+            "typeString": ""
+        },
+        {
+            "originalName": "EyeExtra.M_F00_000_EyeExtra_On",
+            "proxyName": "EyeExtra",
+            "pmxName": "＞＜",
+            "typeString": ""
+        },
+        {
+            "originalName": "EyeExtra.M_F00_000_00_EyeExtra_On",
+            "proxyName": "EyeExtra2",
+            "pmxName": "はぅ目のみ",
+            "typeString": ""
+        },
+        {
+            "originalName": "",
+            "proxyName": "A",
+            "pmxName": "あ",
+            "typeString": "M"
+        },
+        {
+            "originalName": "",
+            "proxyName": "I",
+            "pmxName": "い",
+            "typeString": "M"
+        },
+        {
+            "originalName": "",
+            "proxyName": "U",
+            "pmxName": "う",
+            "typeString": "M"
+        },
+        {
+            "originalName": "",
+            "proxyName": "E",
+            "pmxName": "え",
+            "typeString": "M"
+        },
+        {
+            "originalName": "",
+            "proxyName": "O",
+            "pmxName": "お",
+            "typeString": "M"
+        },
+        {
+            "originalName": "",
+            "proxyName": "Blink",
+            "pmxName": "まばたき",
+            "typeString": "E"
+        },
+        {
+            "originalName": "",
+            "proxyName": "Blink_R",
+            "pmxName": "ウィンク２",
+            "typeString": "E"
+        },
+        {
+            "originalName": "",
+            "proxyName": "Blink_L",
+            "pmxName": "ｳｨﾝｸ２右",
+            "typeString": "E"
+        },
+        {
+            "originalName": "",
+            "proxyName": "Joy",
+            "pmxName": "喜",
+            "typeString": ""
+        },
+        {
+            "originalName": "",
+            "proxyName": "Angry",
+            "pmxName": "怒",
+            "typeString": ""
+        },
+        {
+            "originalName": "",
+            "proxyName": "Sorrow",
+            "pmxName": "哀",
+            "typeString": ""
+        },
+        {
+            "originalName": "",
+            "proxyName": "Fun",
+            "pmxName": "楽",
+            "typeString": ""
+        },
+        {
+            "originalName": "",
+            "proxyName": "Surprised",
+            "pmxName": "驚",
+            "typeString": ""
+        }
+    ]
+}
